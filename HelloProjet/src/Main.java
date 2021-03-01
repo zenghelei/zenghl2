@@ -4,6 +4,6 @@ public class Main {
 
     @Test
     public void testHelloWrold() {
-        System.out.println("HelloWorld23localmaster3!");
+        System.out.println("HelloWorld23localmaster5!");
     }
 }
